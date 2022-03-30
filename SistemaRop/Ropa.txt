@@ -1,0 +1,2 @@
+1234	Camisa de niño	154.32	54
+6868	Pantalon de mujer	458.65	79
